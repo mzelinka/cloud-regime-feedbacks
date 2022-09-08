@@ -1,5 +1,8 @@
 # cloud-regime-feedbacks
 
+[![DOI](https://zenodo.org/badge/534324116.svg)](https://zenodo.org/badge/latestdoi/534324116)
+
+
 Code to perform calculations for Zelinka, M. D., I. Tan, L. Oreopoulos, G. Tselioudis, 2022: [Detailing Cloud Property Feedbacks with a Regime-Based Decomposition](https://doi.org/10.1007/s00382-022-06488-7), Climate Dyn., doi:10.1007/s00382-022-06488-7.
 
 Code is broken up into 3 pieces:
